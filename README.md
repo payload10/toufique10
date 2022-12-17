@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @payload10
-- 👀 I’m interested in Security,Penetration Testing as well as development!
-- 🌱 I’m currently practicing competitive programming and improving my pentesting skills.
+- 👀 I’m interested in Security, Penetration Testing as well as development!
+- 🌱 I’m currently practicing Front End Web Development.
 - Linkedin: https://www.linkedin.com/in/toufique-belim/
 - 💞️ I also have youtube channel which you can look out: https://www.youtube.com/channel/UC_UCWIT13EaOriciyHJrDBg
 - 📫 How to reach me : belimtoufique1000@gmail.com
